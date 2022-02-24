@@ -1,0 +1,8 @@
+name: Arenum
+version: '${version}'
+main: love.chihuyu.arenum.Arenum
+api-version: 1.18
+prefix: Arenum
+authors: [ Hirosuke ]
+description: Original lobby plugin for Arena.
+website: hirosuke.works
